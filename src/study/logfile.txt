@@ -1,0 +1,12 @@
+INFO : 2022/01/13 16:41:11 C:/Users/antline/Documents/TGM/golang/study/src/220113_logging.go:33: test msg
+INFO : 2022/01/13 16:41:11 C:/Users/antline/Documents/TGM/golang/study/src/220113_logging.go:34: End of Programe
+INFO : test msg
+INFO : End of Programe
+test msg
+End of Programe
+2022/01/14 08:17:23 C:/Users/antline/Documents/TGM/golang/study/src/220113_logging.go:35: test msg
+2022/01/14 08:17:23 C:/Users/antline/Documents/TGM/golang/study/src/220113_logging.go:36: End of Programe
+2022/01/14 08:19:40 test msg
+2022/01/14 08:19:40 End of Programe
+2022/01/14 10:25:57 test msg
+2022/01/14 10:25:57 End of Programe
